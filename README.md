@@ -1,5 +1,5 @@
 # Aleo123
-[toc]
+
 ## Explorer
 ### Introduction
 
