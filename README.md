@@ -1,8 +1,12 @@
 # Aleo123
 [toc]
 ## Explorer
+### Introduction
 
-## Wallet
+## Soter|Aleo Wallet Browser Plugin
 
-### 
-<img width="100%" alt="image" src="https://github.com/aleoweb123/docs/assets/123852645/4721a974-c397-4cb8-aeda-93b7f6c0431e">
+### Introduction
+
+
+### System Design
+<img width="886" alt="image" src="https://github.com/aleoweb123/docs/assets/123852645/be0d90df-fa6c-42d1-a237-2e2c2c37e0a4">
