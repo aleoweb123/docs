@@ -1,6 +1,7 @@
 # Soter|Aleo Wallet Browser Plugin
 
 [Update Logs](./update_log)
+
 [Tutorials](./tutorials)
 
 ## Introduction
