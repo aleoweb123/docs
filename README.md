@@ -2,6 +2,6 @@
 
 [Explorer](./explorer/)
 
-[Soter Aleo Wallet](./explorer/)
+[Soter Aleo Wallet](./soterwallet/)
 
 [Indexer](./indexer)
