@@ -1,5 +1,8 @@
 # Soter|Aleo Wallet Browser Plugin
 
+[Update Logs](./update_log)
+[Tutorials](./tutorials)
+
 ## Introduction
 
 A safe and fast Chrome extention wallet for Aleo blockchain.
